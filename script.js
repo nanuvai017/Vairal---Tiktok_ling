@@ -5,7 +5,7 @@ function showPopup() {
     popup.innerHTML = `
         <div class="popup-content">
             <p>Join our Telegram channel for more content!</p>
-            <a href="https://t.me/mehadi_X_420_ZONE" target="_blank" id="popup-link">Join Now</a>
+            <a href="https://t.me/+NBHdCMPDwPg5YTY9" target="_blank" id="popup-link">Join Now</a>
             <button id="close-popup">Close</button>
         </div>
     `;
